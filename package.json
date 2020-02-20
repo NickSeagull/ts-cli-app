@@ -1,5 +1,5 @@
 {
-  "name": "butler",
+  "name": "ts-cli-app",
   "version": "0.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -41,7 +41,6 @@
   },
   "homepage": "https://github.com/NickSeagull/butler#readme",
   "dependencies": {
-    "winston": "^3.2.1",
-    "win32-api": "^9.2.0"
+    "winston": "^3.2.1"
   }
 }
