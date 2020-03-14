@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "acorn": ">=7.1.1",
+    "minimist": ">=1.2.2",
     "@types/chai": "^4.2.7",
     "@types/chai-as-promised": "^7.1.2",
     "@types/mocha": "^5.2.7",
