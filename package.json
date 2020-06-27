@@ -8,20 +8,18 @@
     "test": "nyc --extension .ts ava"
   },
   "ava": {
-		"extensions": [
-			"ts"
-		],
-		"require": [
-			"ts-node/register"
-		]
-	},
+    "extensions": [
+      "ts"
+    ],
+    "require": [
+      "ts-node/register"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/user/repo.git"
   },
   "devDependencies": {
-    "@types/chai": "^4.2.7",
-    "@types/chai-as-promised": "^7.1.2",
     "@types/node": "^13.5.0",
     "@typescript-eslint/eslint-plugin": "^2.18.0",
     "@typescript-eslint/parser": "^2.18.0",
